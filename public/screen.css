@@ -1,0 +1,25 @@
+html { 
+  height: 100% 
+}
+
+body { 
+  height: 100%; 
+  margin: 0; 
+  padding: 0;
+  background-color: #152c3d;
+  position: relative;
+}
+
+#map_canvas { 
+  width: 1024px;
+  height: 680px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -512px;
+  margin-top: -340px;
+}
+
+.gmnoprint {
+  display: none;
+}
