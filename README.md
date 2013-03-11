@@ -17,7 +17,8 @@ to install all dependencies. Then run
   
     coffee server
 
-to start the server. It will automatically listen to changes on mapr.coffee and compile it.
+to start the server. It will automatically listen to changes in the app dir and compile all coffeescript files
+to /public
 
 
 That's it; you read me.
